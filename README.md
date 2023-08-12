@@ -8,7 +8,7 @@
 ---
 ✨ I'm a Backend Engineer and Technical Product Lead passionate about making an impact by solving unconventional problems, advocating for building open and inclusive developer communities, and helping Startups grow.
 
-When I'm not geeking around, coding, building communities, helping startups grow, or contributing to Open Source, you can find me geeking about Photography and wishing to explore Archery.
+When I'm not coding, building communities, helping startups grow, or contributing to Open Source, you can find me geeking about Photography and wishing to explore Archery.
 
 
 - 😄 My Pronouns: He/Him   
